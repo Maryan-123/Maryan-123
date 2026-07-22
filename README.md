@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./profile-banner.svg" alt="Maryan — Full-Stack and Mobile Developer" width="100%" />
+<img src="./maryan-profile.jpeg" alt="Maryan — Full-Stack and Mobile Developer" width="100%" />
 
 <br/>
 
