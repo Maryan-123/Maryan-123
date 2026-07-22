@@ -1,8 +1,4 @@
-<div align="center">
 
-<img src="./maryan-profile.jpeg" alt="Maryan — Full-Stack and Mobile Developer" width="100%" />
-
-<br/>
 
 <img src="https://komarev.com/ghpvc/?username=Maryan-123&label=Profile%20Views&color=1A46FD&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-019444?style=for-the-badge" alt="Open to opportunities" />
