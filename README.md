@@ -1,5 +1,8 @@
 
-
+<div align="center">
+<h3>Maryan Hussein Ulusow</h3>
+<h4>—Full-Stack and Mobile Developer</h4>
+<br/>
 <img src="https://komarev.com/ghpvc/?username=Maryan-123&label=Profile%20Views&color=1A46FD&style=for-the-badge" alt="Profile views" />
 <img src="https://img.shields.io/badge/Status-Open%20to%20Opportunities-019444?style=for-the-badge" alt="Open to opportunities" />
 <img src="https://img.shields.io/badge/Focus-Education%20Technology-1232B8?style=for-the-badge" alt="Focus on education technology" />
